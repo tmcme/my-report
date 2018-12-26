@@ -1,0 +1,31 @@
+{
+  "name": "my-report",
+  "version": "0.0.1",
+  "description": "统一多厂家报表呈现",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmcme/my-report.git"
+  },
+  "keywords": [
+    "report"
+  ],
+  "author": "fer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmcme/my-report/issues"
+  },
+  "homepage": "https://github.com/tmcme/my-report#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^4.28.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
